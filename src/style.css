@@ -1,0 +1,37 @@
+.imagem-carrossel {
+    object-fit: cover;  /* não distorcer a imagem */
+    object-position: 0 90%;  /* colocar a imagem mais pra cima */
+    height: 400px;
+}
+
+.seta {
+    background-color: rgb(0, 250, 100);
+    border-radius: 20px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;  /* não distorcer a imagem */
+    /* object-position: 0 90%;  colocar a imagem mais pra cima */
+    height: 200px;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
